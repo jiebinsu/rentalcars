@@ -5,8 +5,9 @@
 ### SIPP Specification Assumption
 
 First Letter
+
 | Letter | Value |
-| ------ | :---- |
+| --- | :--- |
 | M | Mini         |
 | E | Economy      |
 | C | Compact      |
@@ -18,8 +19,9 @@ First Letter
 | X | Special      |
 
 Second Letter
+
 | Letter | Value |
-| ------ | :---- |
+| --- | :--- |
 | B | 2 doors       |
 | C | 4 doors       |
 | D | 5 doors       |
